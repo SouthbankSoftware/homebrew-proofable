@@ -2,7 +2,7 @@ class ProofableCli < Formula
   desc "Certifying any digital assets (files) to public blockchains"
   homepage "https://docs.proofable.io"
   url "https://github.com/SouthbankSoftware/proofable/archive/v0.2.13.tar.gz"
-  SHA256: da20b443081ab84b6857c00a9796adf95f82f6accb37945387f253bf6b999fbe
+  sha256 "da20b443081ab84b6857c00a9796adf95f82f6accb37945387f253bf6b999fbe"
   license "AGPL-3.0"
   head "https://github.com/SouthbankSoftware/proofable.git"
 
